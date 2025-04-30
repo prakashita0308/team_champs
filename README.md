@@ -1,4 +1,4 @@
-Team CodeHerThing - Member Management Web App
+Team champs - Member Management Web App
 This is a MERN stack application that allows users to add, store, and view information about team members, including their name, roll number, degree, interests, and a profile image.
 
 🔧 Technologies Used
